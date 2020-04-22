@@ -15,7 +15,8 @@ def main():
           + " will account for the market\ntax, so just enter the number that's\n"
           + "listed per item.\n")
     print("3. To get the chances for profit or loss,\nuse a tradeup site such"
-          + " as\nhttps://csgo.exchange/contract/tradeup.\nRemember the steam prices"
+          + " as\nhttps://csgo.exchange/contract/tradeup.\n(Make sure to select"
+          + " New Theory Method)\nRemember the steam prices"
           + " of each of these\nitems relative to their chance, because\nthe chance"
           + " will be asked after the list of\nprices is input.\n")
 
