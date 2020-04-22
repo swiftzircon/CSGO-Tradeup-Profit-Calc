@@ -17,8 +17,9 @@ Information to keep in mind:
            will account for the market tax, so just enter the number that's
            listed per item.
         3. To get the chances for profit or loss, use a tradeup site such
-           as https://csgo.exchange/contract/tradeup. Remember the steam prices
-           of each of these items relative to their chance, because the chance
-           will be asked after the list of prices is input.
+           as https://csgo.exchange/contract/tradeup. (Make sure to select
+           New Theory Method) Remember the steam prices of each of these 
+           items relative to their chance, because the chance will be asked 
+           after the list of prices is input.
 
 ----------------------------------------
